@@ -57,8 +57,6 @@ Below are screenshots illustrating the page preview:
 </div>
 <br>
 
-The image above is just a sample preview. You can explore the full experience on the live site [here]()
-
 ---
 
 ## My process
