@@ -57,6 +57,14 @@ Below are screenshots illustrating the page preview:
 </div>
 <br>
 
+The image above is just a sample preview.
+You can explore the full experience on the DEMO [here](https://pete13232.github.io/DOM-article-preview-challenge/).
+
+### Links
+
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/basic-dom-manipulation---article-preview-1XSVCggRop)
+- Demo URL: [Link](https://pete13232.github.io/DOM-article-preview-challenge/)
+
 ---
 
 ## My process
